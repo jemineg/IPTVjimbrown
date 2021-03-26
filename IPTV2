@@ -121,10 +121,12 @@ https://indotv.tech/m3u8sd/usee-cartoonnetwork-indonesia.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVO Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Tvokids-static-logo.svg/revision/latest/scale-to-width-down/2000?cb=20180612171506" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baby First" tvg-logo="" group-title="(no group)",Baby First
+https://cutt.ly/Baby_First
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Da Vinci" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/2000?cb=20191208233628" group-title="Kids",Da Vinci
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery" tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery
-https://indotv.tech/m3u8sd/usee-disco-indonesia.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel" tvg-logo="" group-title="(no group)",Discovery Channel
+https://cutt.ly/Discovery_HD
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="Educational",History
