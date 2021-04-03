@@ -117,20 +117,12 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baby First" tvg-logo="" group-title="(no group)",Baby First
 https://cutt.ly/Baby_First
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SBbCNuv.png" group-title="",History
-https://indotv.tech/m3u8sd/usee-history-indonesia.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/D8gjvej.png" group-title="",Discovery
-https://indotv.tech/m3u8sd/usee-disco-indonesia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/n0pRpYA.png" group-title="",Discovery Asia
 http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=306
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/5EsYokQ.png" group-title="",Discovery Science
 http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=343
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EPYSCWS.png" group-title="",National Geographic
-https://indotv.tech/m3u8sd/usee-natgeo-indonesia.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
-#EXTINF:-1 tvg-id="NGO.US" tvg-name="National Geographic" tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="Educational",National Geographic
-https://indotv.tech/m3u8sd/usee-natgeo-indonesia.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Educational",CGTN Documentary
@@ -139,6 +131,45 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NASA TV" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Educational",NASA TV
 https://ntv1.akamaized.net/hls/live/201407l5/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery USA" tvg-logo="" group-title="(no group)", Discovery USA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ef7e8c7bc86110e.m3u8
+#EXTINF:-1,HISTORY US
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/bd2d62fd0dc1671.m3u8
+#EXTINF:-1,DISCOVERY SCI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/109c2fc33faa673.m3u8
+#EXTINF:-1,DISCOVERY VELOCITY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67995090b823efb.m3u8
+#EXTINF:-1,DISCOVERY ID 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d01c3cfe0f2380e.m3u8
+#EXTINF:-1,DISCOVERY LIFE 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/50b5663f5c2770a.m3u8
+#EXTINF:-1,HBO ZONE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/c6742879f48d851.m3u8
+#EXTINF:-1,HBO SINGNATURE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5c7ef9dc7c56bcc.m3u8
+#EXTINF:-1,HBO HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/f7572ae43c4e6c9.m3u8
+#EXTINF:-1,STARZ HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d5e1cf3fe6ec7a1.m3u8
+#EXTINF:-1,STARZ WEST
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0195e4ebd24a621.m3u8
+#EXTINF:-1,STARZ EDGE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5a0cbe78eaa3e8d.m3u8
+#EXTINF:-1,CINEMAX
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a372ed6cf65b6f5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/5DAvGZ2.png" group-title="",BT Sport 1
 http://stream.streamhubtv.xyz:8080/Iptv/xQDusVsVwA/48063
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xemElC7.png" group-title="",BT Sport 2
@@ -181,45 +212,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music",Yo! MTV
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
-#EXTINF:-1,Discovery USA
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ef7e8c7bc86110e.m3u8
-#EXTINF:-1,HISTORY US
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/bd2d62fd0dc1671.m3u8
-#EXTINF:-1,DISCOVERY SCI
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/109c2fc33faa673.m3u8
-#EXTINF:-1,DISCOVERY VELOCITY
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67995090b823efb.m3u8
-#EXTINF:-1,DISCOVERY ID 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d01c3cfe0f2380e.m3u8
-#EXTINF:-1,DISCOVERY LIFE 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/50b5663f5c2770a.m3u8
-#EXTINF:-1,HBO ZONE
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/c6742879f48d851.m3u8
-#EXTINF:-1,HBO SINGNATURE
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5c7ef9dc7c56bcc.m3u8
-#EXTINF:-1,HBO HD
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/f7572ae43c4e6c9.m3u8
-#EXTINF:-1,STARZ HD
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d5e1cf3fe6ec7a1.m3u8
-#EXTINF:-1,STARZ WEST
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0195e4ebd24a621.m3u8
-#EXTINF:-1,STARZ EDGE
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5a0cbe78eaa3e8d.m3u8
-#EXTINF:-1,CINEMAX
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a372ed6cf65b6f5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="All The K-POP" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniTQvGjbmo1I789CDbS8b4nPE1UJYHeCcqpPl90yg=s900-c-k-c0x00ffffff-no-rj" group-title="South Korea",All The K-POP
 https://stream-04.sg1.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzA5vfwYCS4nbK-GCJpAVq9o)/dm/3/x4kzk1v/s/live-3.m3u8
 © 2021 GitHub, Inc.
